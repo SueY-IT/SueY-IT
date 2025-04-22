@@ -8,7 +8,7 @@
 
 - [Active Directory Home Lab]()
 
-<h2>🛜 Netowrking Projects:</h2>
+<h2>🛜 Networking Projects:</h2>
 
 - [Small Office/Home Office]()
 

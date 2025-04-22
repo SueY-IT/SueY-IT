@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on obtaining my A+ Certification.
 - 🤔 I’m interested in getting into Cybersecurity.
-- ⚡ Fun fact: I like DIY projects.
+- ⚡ Fun fact: I love DIY home projects.
 
 <h2>🔒 Cybersecurity Projects:</h2>
 

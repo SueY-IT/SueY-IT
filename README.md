@@ -10,7 +10,7 @@
 
 <h2>🛜 Networking Projects:</h2>
 
-- [Small Office/Home Office]()
+- [Small Office/Home Office](https://github.com/SueY-IT/SOHO-Project)
 
 <h2>⭐ Cerifications</h2>
 

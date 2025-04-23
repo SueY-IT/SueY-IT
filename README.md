@@ -14,7 +14,7 @@
 
 <h2>⭐ Cerifications</h2>
 
-- Tech +
+- CompTia Tech +
 
 <h2>📫 Connect with me:</h2>
 

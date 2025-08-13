@@ -1,6 +1,6 @@
 <h1>Hello, I'm Sue! </h1>
 
-- 🌱 I’m currently working on obtaining my A+ Certification.
+- 🌱 I’m currently working on obtaining a Project Management Certification.
 - 🤔 I’m interested in getting into Cybersecurity.
 - ⚡ Fun fact: I love DIY home projects.
 
@@ -14,7 +14,8 @@
 
 <h2>⭐ Cerifications</h2>
 
-- CompTia Tech +
+- CompTia ITF +
+- CompTia A+
 
 <h2>📫 Connect with me:</h2>
 
